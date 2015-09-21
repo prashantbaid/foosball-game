@@ -1,2 +1,5 @@
-# foosball-game
-A foosball game written in javascript using html5 canvas
+# football-game
+A foosball game written in vanilla javascript using HTML5 canvas.
+
+# License
+MIT License
